@@ -4,14 +4,8 @@ header_intro:
 layout: page
 permalink: /:basename/
 ---
-Lorem ipsum dolor sit amet, diam lorem justo dapibus facilisis, in dolore velit, exercitationem porttitor porttitor arcu aliquet. Dictum turpis sollicitudin minima vitae ac. Consequat ornare id tortor vel tincidunt, nulla felis blandit non penatibus integer. Ac rutrum convallis, in donec sit non, urna dictum urna pede nibh ante, in nisl arcu cras nisl.
+The Monica Chibuogu Nneji Foundation is committed to improving access to health, education, and mobility of communities in need. We meet our mission through charitable contributions from everyday people who want to invest in:
 
-Vestibulum suspendisse vel, orci ligula est etiam, ligula sollicitudin sed faucibus eget, class nulla aptent dictum mi sit luctus, volutpat est enim. Metus nullam augue dictumst quisque in feugiat, pellentesque congue facilisi vivamus mi phasellus nulla. The Foundation is principally interested in promoting positive change in our world through activities in two key areas:
-
-- **Aaaaaaaaa:** Lorem ipsum dolor sit amet, diam lorem justo dapibus facilisis, in dolore velit, exercitationem porttitor porttitor arcu aliquet. Dictum turpis sollicitudin minima vitae ac. Consequat ornare id tortor vel tincidunt, nulla felis blandit non penatibus integer. Ac rutrum convallis, in donec sit non, urna dictum urna pede nibh ante, in nisl arcu cras nisl.
-- **Bbbbbbbbbb:** Vestibulum suspendisse vel, orci ligula est etiam, ligula sollicitudin sed faucibus eget, class nulla aptent dictum mi sit luctus, volutpat est enim. Metus nullam augue dictumst quisque in feugiat, pellentesque congue facilisi vivamus mi phasellus nulla.
-
-<span class="fa-stack">
-  <i class="fa fa-circle fa-stack-2x"></i>
-  <i class="fa fa-download fa-stack-1x fa-inverse"></i>
-</span> <a href="/documents/example.pdf">&nbsp;Example (pdf)</a>
+- **Scholarships for Future Healthcare Professionals:** Our communities need healthcare professionals that are innovative, inclusive, and resilient. So, we identify these character traits early on in students of any age pursuing college and graduate degrees toward careers in nursing, medicine, occupational therapy, speech-language pathology, public health, biomedical engineering, etc. The Foundation provides scholars with financial aid for one semester and professional mentorship for the remaining semesters leading to graduation.
+- **Workshops on Higher Education Opportunities:** Our communities need information and tools to overcome odds and pursue higher education. So, we demystify the application process for leading public and private secondary schools, colleges and universities and we bring our experience of earning over $1.5 Million in scholarships to empower families. The Foundation provides applicants with workshops including guest experts to help students make informed decisions and plan ahead for their future.
+- **Advocacy for Social and Economic Mobility:** Our communities are rich in diverse abilities, experiences, and resources but many consequential systems in place have not been designed with that diversity in mind. So, we identify opportunities to redesign the system with more public representation of people with disabilities. As the Foundation grows, our goal is to provide grants to support sustainable efforts that directly address the intergenerational health, education, income, transportation and housing challenges in our communities.
