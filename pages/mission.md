@@ -4,7 +4,7 @@ header_intro:
 layout: page
 permalink: /:basename/
 ---
-The Monica Chibuogu Nneji Foundation is committed to improving access to health, education, and mobility of communities in need. We meet our mission through charitable contributions from everyday people who want to invest in:
+The Monica Chibuogu Nneji Foundation is committed to improving access to health, education, and mobility for communities in need. We meet our mission through charitable contributions from everyday people who want to invest in:
 
 - **Scholarships for Future Healthcare Professionals:** Our communities need healthcare professionals that are innovative, inclusive, and resilient. So, we identify these character traits early on in students of any age pursuing college and graduate degrees toward careers in nursing, medicine, occupational therapy, speech-language pathology, public health, biomedical engineering, etc. The Foundation provides scholars with financial aid for one semester and professional mentorship for the remaining semesters leading to graduation.
 - **Workshops on Higher Education Opportunities:** Our communities need information and tools to overcome odds and pursue higher education. So, we demystify the application process for leading public and private secondary schools, colleges and universities and we bring our experience of earning over $1.5 Million in scholarships to empower families. The Foundation provides applicants with workshops including guest experts to help students make informed decisions and plan ahead for their future.
