@@ -1,11 +1,11 @@
 # Grantmaker settings
 foundation_name: The Monica Chibuogu Nneji Foundation
 foundation_tagline: We are on a mission to invest in the health, education, and mobility of communities in need.
-grant_application_login: https://paypal.me/Nneji
+paypal_donation: https://paypal.me/Nneji
 
 # Social media settings
 # Enter the full profile url (e.g. https://twitter.com/smartergiving)
-profile_twitter: https://paypal.me/Nneji
+profile_paypal: https://paypal.me/Nneji
 profile_facebook: 
 profile_instagram: 
 profile_github: 
@@ -20,7 +20,7 @@ live: false # enter 'true' when you're ready for the site to be indexed by Googl
 
 # Jekyll settings
 baseurl: # Leave this blank unless your site is located on a subpath, e.g. /blog
-url: https://smartergiving.org # Typically http://www.yourdomain.org
+url: https://nnejifoundation.github.io/ # Typically http://www.yourdomain.org, change to nnejifoundation.org when ready
 collections:
   featured-cards:
     output: false
