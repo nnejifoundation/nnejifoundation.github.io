@@ -1,9 +1,9 @@
 ---
-header_title: Contact
+header_title: Donate
 address_line_one: 3710 Shannon Road
 address_line_two: Unit 52272
 city: Durham
-state: NC
+state: North Carolina
 zip: 27707
 phone: 919.322.8487
 email: honormonicanneji@gmail.com
