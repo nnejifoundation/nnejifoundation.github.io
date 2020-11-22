@@ -1,6 +1,12 @@
 ---
 header_title: About
-header_intro: Monica Chibuogu Nneji (nee Nwobodo) began her schooling at Immaculata Primary School in Onitsha, Nigeria where she stood out as an inquisitive, clever, and bright student. Upon completing her primary and secondary education, following the Nigerian Civil War, she went on to Abia State University Teaching Hospital in Aba and became a Registered Nurse (RN) in 1979. She furthered her training and became a Registered Midwife at Iyi-Enu Mission Hospital School of Midwifery in Onitsha. After working diligently as a nurse and a midwife and witnessing firsthand how socio-economic challenges negatively impacted the health status of her community, Monica was driven to earn a Bachelor of Science in Community Health Planning and Administration and a Master of Public Administration (MPA) degree at University of Cincinnati and Xavier University, respectively, in Cincinnati, Ohio completing both between 1982 and 1984.
+header_intro: The Monica Chibuogu Nneji Foundation was established by Monica’s children to honor their mother. Monica dedicated her life to caring for others, in her long career as a registered nurse, as a champion for academic excellence, and advocate for people with special needs. We hope you will join us in continuing the great work Monica began in the community.
+
+layout: page
+permalink: /:basename/
+---
+## About Monica
+Monica Chibuogu Nneji (nee Nwobodo) began her schooling at Immaculata Primary School in Onitsha, Nigeria where she stood out as an inquisitive, clever, and bright student. Upon completing her primary and secondary education, following the Nigerian Civil War, she went on to Abia State University Teaching Hospital in Aba and became a Registered Nurse (RN) in 1979. She furthered her training and became a Registered Midwife at Iyi-Enu Mission Hospital School of Midwifery in Onitsha. After working diligently as a nurse and a midwife and witnessing firsthand how socio-economic challenges negatively impacted the health status of her community, Monica was driven to earn a Bachelor of Science in Community Health Planning and Administration and a Master of Public Administration (MPA) degree at University of Cincinnati and Xavier University, respectively, in Cincinnati, Ohio completing both between 1982 and 1984.
  
 Following her studies in the United States, she moved back to Nigeria to put her skills into action. She began working at the Nigerian Naval Hospital in Lagos, Nigeria as an RN and Midwife. She then became a Nurse Manager at St. Louis Medical Center, also in Lagos, where she focused on initiatives to improve maternal and infant welfare.
 
@@ -8,11 +14,6 @@ Monica had an entrepreneurial spirit. This led her to establish a small business
 
 Upon returning to the United States in the 1990s, Monica and her family first settled in the small, close-knit town of Denmark, South Carolina where she had to essentially start afresh her career. She worked several odd jobs to provide for her family. She eventually obtained her U.S. RN license and began working at Palmetto Richland Memorial Hospital in Columbia, SC. She then moved the family to Durham, North Carolina following a career opportunity at Duke University Medical Center where she worked as a clinical nurse in the Heart Center for over 5 years before transitioning into the mental health field where she devoted nearly 10 years to the State government at what is now Central Regional Hospital in Butner, NC. She worked diligently until 2019 when she passed away peacefully, surrounded by her loving children.
 
-The Monica Chibuogu Nneji Foundation was established by Monica’s children to honor their mother. Monica dedicated her life to caring for others, in her long career as a registered nurse, as a champion for academic excellence, and advocate for people with special needs. We hope you will join us in continuing the great work Monica began in the community.
-
-layout: page
-permalink: /:basename/
----
 ## Board of Directors
 
 ### Dr. Jackie Ogechi Nneji, Co-Founder & Director
