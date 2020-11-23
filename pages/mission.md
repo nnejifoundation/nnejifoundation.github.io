@@ -12,3 +12,6 @@ The Monica Chibuogu Nneji Foundation is committed to improving access to health,
   - For people who have been systematically excluded from traditional professional or educational pathways due to hearing, intellectual, learning, mental health, physical, and/or visual disabilities.
   - Advocate for accessible public services, advancement in society, and inclusion in the economy.
   - Invest in community organizations and innovations that directly serve people with special needs.
+  <ul class="actions">
+    <li><a href="{{ site.baseurl }}/about/" class="button">About Us</a></li>
+  </ul>
