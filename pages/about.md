@@ -8,7 +8,7 @@ permalink: /:basename/
 ## Board of Directors
 
 ### Dr. Jackie Ogechi Nneji, Co-Founder & Director
-Dr. Jackie Ogechi Nneji is a practicing physician.
+Dr. Jackie Ogechi Nneji is a practicing physician and public health advocate.
 
 ### Dr. Victoria Chibuogu Nneji, Co-Founder & Director
 Dr. Victoria Chibuogu Nneji is an engineer, educator, and entrepreneur.
