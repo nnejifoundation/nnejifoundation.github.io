@@ -26,7 +26,7 @@
           <div class="12u$(small)">
             <ul class="labeled-icons">
               <li>
-                <h3 class="icon fa-home"><span class="label">Address</span></h3>
+                <h3 class="icon fa-money-check"><span class="label">Address</span></h3>
                 {{ site.foundation_name }}<br />
                 {{ page.address_line_one }}<br />
                 {% if page.address_line_two %}
@@ -38,20 +38,20 @@
                 <h3 class="icon fa-phone-square"><span class="label">Phone</span></h3>
                 {{ page.phone }}
               </li>
-              <li>
+              <!--li>
                 <h3 class="icon fa-fax"><span class="label">Fax</span></h3>
                 {{ page.fax }} (fax)
-              </li>
+              </li-->
               {% if page.email %}
               <li>
                 <h3 class="icon fa-envelope-o"><span class="label">Email</span></h3>
                 <a href="mailto:{{ page.email }}">{{ page.email }}</a>
               </li>
               {% endif %}
-              {% if site.grant_application_login %}
+              {% if site.paypal_donation %}
               <li>
-                <h3 class="icon fa-external-link-square"><span class="label">PayPal Portal</span></h3>
-                <a href="{{ site.grant_application_login }}">PayPal Portal</a>
+                <h3 class="icon fa-credit-card"><span class="label">PayPal Portal</span></h3>
+                <a href="{{ site.paypal_donation }}">PayPal Portal</a>
               </li>
               {% endif %}
             </ul>
