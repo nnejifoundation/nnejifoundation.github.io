@@ -203,7 +203,7 @@ $screen-short-min:           $screen-short;
 /* Landing Page */
 #header, #header h1, #header a, #footer {
   //color: rgba(255, 255, 255, 0.5); // Default - good for darker backgrounds
-  color: #f0f0f0;
+  color: #ffffff;//#f0f0f0;
 }
 
 #header, #footer {
@@ -212,7 +212,7 @@ $screen-short-min:           $screen-short;
 
 #header {
   //background-color: _palette(accent2, bg); //Default
-  background-color: #FDD983; //#a6a6a6; //This color should match the bottom of the background image
+  background-color: #75ABFF;// #FDD983; //#a6a6a6; //This color should match the bottom of the background image
   @media only screen and (min-width: $screen-md-min) {
     background-size: auto, auto 115%; //Extend beyond screen to allow for parallax scroll
   }
