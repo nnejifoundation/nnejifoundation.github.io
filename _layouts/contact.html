@@ -25,9 +25,15 @@
         <div class="row">
           <div class="12u$(small)">
             <ul class="labeled-icons">
+              {% if site.paypal_donation %}
+              <li>
+                <h3 class="icon fa-credit-card"><span class="label">Click to Donate via Paypal</span></h3>
+                <a href="{{ site.paypal_donation }}">Click to Donate via Paypal</a>
+              </li>
+              {% endif %}
               <li>
                 <h3 class="icon fa-envelope-o"><span class="label">Address</span></h3>
-                {{ site.foundation_name }}<br />
+                Mail Checks Payable to: {{ site.foundation_name }}<br />
                 {{ page.address_line_one }}<br />
                 {% if page.address_line_two %}
                   {{ page.address_line_two }}<br />
@@ -46,12 +52,6 @@
               <li>
                 <h3 class="icon fa-at"><span class="label">Email</span></h3>
                 <a href="mailto:{{ page.email }}">{{ page.email }}</a>
-              </li>
-              {% endif %}
-              {% if site.paypal_donation %}
-              <li>
-                <h3 class="icon fa-credit-card"><span class="label">PayPal Portal</span></h3>
-                <a href="{{ site.paypal_donation }}">PayPal Portal</a>
               </li>
               {% endif %}
             </ul>
