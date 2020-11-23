@@ -212,7 +212,7 @@ $screen-short-min:           $screen-short;
 
 #header {
   //background-color: _palette(accent2, bg); //Default
-  background-color: #75ABFF;// #FDD983; //#a6a6a6; //This color should match the bottom of the background image
+  background-color: #FDD983;//#75ABFF;// #FDD983; //#a6a6a6; //This color should match the bottom of the background image
   @media only screen and (min-width: $screen-md-min) {
     background-size: auto, auto 115%; //Extend beyond screen to allow for parallax scroll
   }
