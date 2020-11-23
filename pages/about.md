@@ -5,7 +5,7 @@ layout: page
 permalink: /:basename/
 ---
 <!--![Monica Chibuogu Nneji portrait](/assets/images/Monica_Chibuogu_Nneji_1500x2100_300.jpg "Title is optional")-->
-<img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/Monica_Chibuogu_Nneji_1500x2100_300.jpg" alt="Monica Chibuogu Nneji portrait" align="center" height="672" width="480" >
+<img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/Monica_Chibuogu_Nneji_1500x2100_300.jpg" alt="Monica Chibuogu Nneji portrait" align="center" height="336" width="240" >
 
 ## About Us
 
