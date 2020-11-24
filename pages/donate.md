@@ -7,7 +7,7 @@ state: North Carolina
 zip: 27707
 phone: 919.322.8487
 email: honormonicanneji@gmail.com
-layout: contact
+layout: page
 permalink: /:basename/
 ---
 <!-- Your entries above cannot contain colons -->
