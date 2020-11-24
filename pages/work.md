@@ -8,9 +8,9 @@ permalink: /:basename/
 > #### Healthcare Scholarship for Spring 2021
 > Eligibility:
 > - Current College or Graduate Student
-> - Experience in African American faith community in Durham, North Carolina
+> - Member of Union Baptist Church in Durham, North Carolina
 > - Interest in healthcare careers
->> **[Apply by December 15, 2020](mailto:honormonicanneji@gmail.com?subject=[Spring%202021%20Health%20Scholarship])** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
+>> **[Apply by December 15, 2020](mailto:honormonicanneji@gmail.com?subject=[Spring%202021%20Health%20Scholarship])** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation. Members of Union Baptist Church directly contributed to help start this scholarship fund.
 
 ### Educational Advancement
 > #### College & Scholarship Prep Workshop on December 22, 2020
