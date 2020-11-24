@@ -10,7 +10,7 @@ permalink: /:basename/
 > - Current College or Graduate Student
 > - Experience in African American faith community in Durham, North Carolina
 > - Interest in healthcare careers
->> **[Apply by December 15, 2020](mailto:honormonicanneji@gmail.com?subject=[Spring 2021 Health Scholarship])** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
+>> **[Apply by December 15, 2020](mailto:honormonicanneji@gmail.com?subject=[Spring%202021%20Health%20Scholarship])** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
 
 ### Educational Advancement
 > #### College & Scholarship Prep Workshop on December 22, 2020
