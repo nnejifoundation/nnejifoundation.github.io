@@ -16,7 +16,7 @@ description: > # this means to start on the next line (which needs to be indente
   The Monica Chibuogu Nneji Foundation is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and mobility of communities in need.
 
 # Google settings
-live: false # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
+live: true # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
 
 # Jekyll settings
 baseurl: # Leave this blank unless your site is located on a subpath, e.g. /blog
