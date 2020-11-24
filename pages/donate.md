@@ -18,3 +18,7 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN: Chris Smith -->
 <!-- GOOD -->
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
+
+<ul class="actions">
+  <li><a href="{{ site.baseurl }}/work/" class="button">Our Work</a></li>
+</ul>
