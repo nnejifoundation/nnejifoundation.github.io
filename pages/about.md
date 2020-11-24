@@ -16,5 +16,5 @@ A practicing physician and public health advocate.
 An engineer, educator, and entrepreneur.
 
 <ul class="actions">
-  <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
+  <li><a href="{{ site.baseurl }}/work/" class="button">Our Work</a></li>
 </ul>
