@@ -32,6 +32,9 @@
               <li>
                 <h3 class="icon fa-credit-card"><span class="label">Click to Donate via PayPal</span></h3>
                 <a href="{{ site.paypal_donation }}">Click to Donate via PayPal</a>
+              </li>
+              {% endif %}
+              <li>  
                 <table border="0" cellpadding="10" cellspacing="0" align="left">
                   <tr>
                     <td align="left">
@@ -46,7 +49,6 @@
                   </tr>
                 </table><!-- PayPal Logo -->
               </li>
-              {% endif %}
               <li>
                 <h3 class="icon fa-envelope-o"><span class="label">Address</span></h3>
                 Mail Checks Payable to: {{ site.foundation_name }}<br />
