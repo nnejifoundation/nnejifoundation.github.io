@@ -15,6 +15,9 @@
         <header class="major">
           <h2>{{ page.header_title }}</h2>
         </header>
+        {% if page.header_intro %}
+          <p>{{ page.header_intro }}</p>
+        {% endif %}
         <p>
           {{ content }}
         </p>
