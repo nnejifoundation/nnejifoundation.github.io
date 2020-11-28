@@ -1,6 +1,6 @@
 ---
 header_title: Work
-header_intro: See what The Foundation is working on and [connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation) on our activities and opportunties.
+header_intro: See what The Foundation is working on and <a href="https://www.linkedin.com/company/monica-chibuogu-nneji-foundation">connect with us</a> on our activities and opportunties.
 layout: page
 permalink: /:basename/
 ---
