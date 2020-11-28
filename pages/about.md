@@ -6,10 +6,10 @@ permalink: /:basename/
 ---
 
 **Jackie Ogechi Nneji, MD, MPH, Co-Founder & Director**
-A practicing physician and public health advocate.
+</br>A practicing physician and public health advocate.
 
 **Victoria Chibuogu Nneji, PhD, Co-Founder & Director**
-An engineer, educator, and entrepreneur.
+</br>An engineer, educator, and entrepreneur.
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/work/" class="button">Our Work</a></li>
