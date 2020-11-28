@@ -5,10 +5,10 @@ layout: page
 permalink: /:basename/
 ---
 
-### Jackie Ogechi Nneji, MD, MPH, Co-Founder & Director
+**Jackie Ogechi Nneji, MD, MPH, Co-Founder & Director**
 A practicing physician and public health advocate.
 
-### Victoria Chibuogu Nneji, PhD, Co-Founder & Director
+**Victoria Chibuogu Nneji, PhD, Co-Founder & Director**
 An engineer, educator, and entrepreneur.
 
 <ul class="actions">
