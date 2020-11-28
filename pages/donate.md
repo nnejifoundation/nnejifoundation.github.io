@@ -1,5 +1,6 @@
 ---
-header_title: Donate
+header_title: Contact Us & Contribute
+header_intro: Please join us in accomplishing our mission today. Support us by donating via <a href="https://www.paypal.me/nneji">PayPal</a> or <a href="mailto:honormonicanneji@gmail.com">Zelle</a>. We also accept checks. Shopping online? When you shop via our <a href="https://smile.amazon.com/ch/85-1546329">AmazonSmile link</a>, at no cost to you, we receive a 0.5% corporate donation! Contact us with any questions or suggestions.
 address_line_one: 3710 Shannon Road
 address_line_two: Unit 52272
 city: Durham
