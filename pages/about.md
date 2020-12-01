@@ -6,7 +6,7 @@ permalink: /:basename/
 ---
 
 **Jackie Ogechi Nneji, MD, MPH, Co-Founder & Director**\
-A practicing physician and public health advocate.
+A practicing physician and global public health practitioner.
 
 **Victoria Chibuogu Nneji, PhD, Co-Founder & Director**\
 An engineer, educator, and entrepreneur.
