@@ -5,12 +5,14 @@ layout: page
 permalink: /:basename/
 ---
 ### Health Equity
-> #### Healthcare Scholarship for Spring 2021
->> **[Click here for more information.](mailto:honormonicanneji@gmail.com?subject=[Spring%202021%20Health%20Scholarship]) Deadline: December 15, 2020** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
+> #### 2021 Healthcare Scholarship 
+>> **[Click here for more information.](mailto:honormonicanneji@gmail.com?subject=[202021%20Health%20Scholarship]) Deadline: May 15, 2021** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
 
 ### Educational Advancement
-> #### College & Scholarship Prep Workshop on December 22, 2020
->> **[Click here for more information.](https://docs.google.com/forms/d/e/1FAIpQLSfPsJw5mqVmns2KBkxLLDnGSM9Me30A5bPlOYyr0mUBr2kONQ/viewform?usp=sf_link) Deadline: December 15, 2020** to be admitted into a workshop designed to prepare you for success in the 2020-2021 competitive college and scholarship cycle and to qualify you to be considered for The Monica Chibuogu Nneji Foundation Scholarship Program.
+> #### Upcoming College & Scholarship Prep Workshops in 2021
+>> Applications to open soon for 2021 to qualify students to be considered for The Monica Chibuogu Nneji Foundation Scholarship Program.
+> #### Successful College & Scholarship Prep Workshop on December 22, 2020
+>><figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College_Scholarship_Workshop_20201222.png" alt="Screenshot of Workshop"><figcaption>Students participated in a workshop designed to prepare them for success in the 2020-2021 competitive college and scholarship cycle.</figcaption></figure>
 
 ### Community Empowerment
 > #### More work to be done in 2021
