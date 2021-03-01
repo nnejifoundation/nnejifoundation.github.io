@@ -5,8 +5,8 @@ layout: page
 permalink: /:basename/
 ---
 ### Health Equity
-> #### 2021 Healthcare Careers Scholarship
->> **[Click here for more information.](mailto:honormonicanneji@gmail.com?subject=[2021%20Health%20Scholarship]) Deadline: May 15, 2021** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
+> #### College Scholarship
+>> **[Apply to the MCNF College Scholarship](https://form.typeform.com/to/BWzy1pfF) Deadline: May 15, 2021** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
 
 ### Educational Advancement
 > #### Upcoming College & Scholarship Prep Workshops in 2021
@@ -21,4 +21,5 @@ permalink: /:basename/
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
+  <li><a href="https://form.typeform.com/to/BWzy1pfF">Apply for Scholarship</a></li>
 </ul>
