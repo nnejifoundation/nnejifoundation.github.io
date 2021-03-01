@@ -19,3 +19,6 @@ permalink: /:basename/
 <!-- address_line_one: SomeBank, ATTN: Chris Smith -->
 <!-- GOOD -->
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
+<ul class="actions">
+  <li><a href="https://form.typeform.com/to/BWzy1pfF" class="button">Apply to Scholarship</a></li>
+</ul>
