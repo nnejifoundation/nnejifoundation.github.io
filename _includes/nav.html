@@ -10,5 +10,6 @@
     {% if site.profile_paypal %}
     <li><a href="{{site.profile_paypal}}" class="icon fa-paypal"><span class="label">PayPal</span></a></li>
     {% endif %}
+    <li><a href="{{ site.baseurl }}/apply/" {% if page.url == '/apply/' %} class="active" {% endif %}>Apply for Scholarship</a></li>
   </ul>
 </nav>
