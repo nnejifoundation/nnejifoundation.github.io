@@ -21,4 +21,5 @@ permalink: /:basename/
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
+  <li><a href="https://form.typeform.com/to/BWzy1pfF" class="button">Apply for Scholarship</a></li>
 </ul>
