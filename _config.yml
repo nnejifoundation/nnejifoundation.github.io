@@ -13,7 +13,7 @@ profile_github:
 # Site settings
 title: The Monica Chibuogu Nneji Foundation, Inc. # Defaults to foundation_name if left blank
 description: > # this means to start on the next line (which needs to be indented two spaces)"
-  The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and mobility of communities in need.
+  The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and upward mobility of communities in need.
 
 # Google settings
 live: true # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
