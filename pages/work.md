@@ -6,17 +6,18 @@ permalink: /:basename/
 ---
 ### Health Equity
 > #### College Scholarship
->> **[Apply to the MCNF College Scholarship](https://form.typeform.com/to/BWzy1pfF) Deadline: May 15, 2021** to be fully considered for a $500 scholarship and mentorship to continue your studies toward graduation.
+>> The Monica Chibuogu Nneji Foundation (MCNF) seeks to identify and invest in future health care professionals who are innovative, inclusive, and resilient with a drive to improve health equity in their communities. The MCNF College Scholarship is designed to support students pursuing higher education in health care fields such as nursing, medicine, occupational therapy, speech-language pathology, public health, and biomedical engineering. The Foundation provides scholars with financial aid of $500.00 for one semester and professional mentorship for the remaining semesters leading to graduation. The Foundation plans to announce the inaugural class of MCNF College Scholars in June 2021.
 
 ### Educational Advancement
-> #### Upcoming College & Scholarship Prep Workshops in 2021
->> Applications to open soon for 2021 to qualify students to be considered for The Monica Chibuogu Nneji Foundation Scholarship Program.
-
-> #### Successful College & Scholarship Prep Workshop on December 22, 2020
->> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College_Scholarship_Workshop_20201222.png" alt="Screenshot of Workshop"><figcaption>Students participated in a workshop designed to prepare them for success in the 2020-2021 competitive college and scholarship cycle.</figcaption></figure>
+> #### College & Scholarship Prep Workshops
+>> Registration to open soon for workshops to prepare students for the 2021-2022 competitive college and scholarship cycle.
+>> 
+>> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College_Scholarship_Workshop_20201222.png" alt="Screenshot of Workshop"><figcaption>Students participated in a workshop on December 22, 2020 designed to prepare them for success in the 2020-2021 competitive college and scholarship cycle.</figcaption></figure>
 
 ### Community Empowerment
-> #### Upcoming Advocacy Initiatives in 2021
+> #### Taking Charge of Your Health Workshops
+>> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/2021%20MCNF-SNTNC%20Health%20Equity%20Community%20Empowerment%20Workshop%20Flyer.png" alt="2021 Sisters Network Women's Health Workshop Flyer"><figcaption>The Foundation hosted a workshop with the Sisters Network Triangle NC on May 16, 2021 in observance of National Women's Health Week.</figcaption></figure>
+>> 
 >> **[Stay up to date](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to make a positive impact in our community.
 
 <ul class="actions">
