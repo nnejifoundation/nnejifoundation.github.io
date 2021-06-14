@@ -1,11 +1,17 @@
 ---
 layout: card
 card_id: card1
-project_title: Magna sed consequat tempus
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Hawaii Najeé Vargas
+project_summary: From West Forsyth High School, Winston-Salem, North Carolina to study Biology at University of North Carolina at Charlotte.
 featured: true
 ---
 <!--Featured cards can be written in HTML or markdown -->
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
-
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+- NAME: Hawaii Najeé Vargas 
+- HOMETOWN: Winston-Salem, North Carolina 
+- HIGH SCHOOL: West Forsyth High School 
+- COLLEGE: University of North Carolina at Charlotte 
+- INTENDED MAJOR: Biology
+- CAREER PLANS:
+I plan to get my Master's Degree in Biology and become a genetic counselor.
+- HOBBIES/INTERESTS:
+I like rollerskating, painting ceramics and occasional photography.
