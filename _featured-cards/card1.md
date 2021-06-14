@@ -6,7 +6,6 @@ project_summary: From West Forsyth H.S., Winston-Salem, N.C. to study Biology at
 featured: true
 ---
 <!--Featured cards can be written in HTML or markdown -->
-- NAME: Hawaii Najeé Vargas 
 - HOMETOWN: Winston-Salem, North Carolina 
 - HIGH SCHOOL: West Forsyth High School 
 - COLLEGE: University of North Carolina at Charlotte 
