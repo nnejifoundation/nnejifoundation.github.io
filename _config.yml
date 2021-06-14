@@ -23,7 +23,7 @@ baseurl: # Leave this blank unless your site is located on a subpath, e.g. /blog
 url: https://nnejifoundation.github.io # Typically http://www.yourdomain.org, change to nnejifoundation.org when ready
 collections:
   featured-cards:
-    output: false
+    output: true
 sass:
   sass_dir: assets/css/_sass
 
