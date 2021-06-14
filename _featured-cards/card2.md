@@ -6,7 +6,6 @@ project_summary: From South Central H.S., Winterville, N.C. to study Neuroscienc
 featured: true
 ---
 <!--Featured cards can be written in HTML or markdown -->
-- NAME: Chelsea Mendoza
 - HOMETOWN: Winterville, North Carolina 
 - HIGH SCHOOL: South Central High School 
 - COLLEGE: University of North Carolina at Chapel Hill 
