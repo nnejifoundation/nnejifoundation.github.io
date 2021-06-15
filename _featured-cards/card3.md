@@ -1,10 +1,18 @@
 ---
 layout: card
 card_id: card3
-project_title: Tortor metus commodo
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Juan Gomez Rios
+project_summary: From Cali, Colombia, graduating from Mount Airy High School to study Biology at Emory & Henry College.
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+Hometown: Cali, Colombia
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+High School: Mount Airy High School
+
+College: Emory & Henry College
+
+Intended Major: Biology
+
+Career Plans: I plan to become a pharmacist or physician assistant as I admire both careers equally. My passion has always been near medicine, with my objective being to expand the health and wellness of the general population.
+
+Hobbies/Interests: I am joining Emory & Henry Men's Soccer team. I am also into weightlifting and other forms of exercise.
