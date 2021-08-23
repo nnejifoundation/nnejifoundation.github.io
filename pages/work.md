@@ -8,11 +8,11 @@ permalink: /:basename/
 > #### College Scholarship
 >> The Monica Chibuogu Nneji Foundation (MCNF) seeks to identify and invest in future health care professionals who are innovative, inclusive, resilient, and driven to improve health equity in their communities. The MCNF College Scholarship is designed to support students pursuing higher education in health care fields such as nursing, medicine, occupational therapy, speech-language pathology, public health, and biomedical engineering. The Foundation awards each scholar with a scholarship of up to $500.00 based on unmet financial need paid directly to the scholar's institution for one semester as well as professional mentorship throughout their academic journey. Click [here](https://nnejifoundation.github.io/scholars) to learn about the inaugural class of MCNF College Scholars!
 >> 
->> The next MCNF College Scholarship application cycle is set to open this fall 2021.
+>> The next MCNF College Scholarship application cycle is set to open in the spring.
 
 ### Educational Advancement
 > #### College & Scholarship Prep Workshops
->> Registration to open soon for workshops to prepare students for the 2021-2022 competitive college and scholarship cycle.
+>> Registration to open soon for workshops to prepare students for the next competitive college and scholarship cycle.
 >> 
 >> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College_Scholarship_Workshop_20201222.png" border="0" width="200" alt="Screenshot of Workshop"><figcaption>Students participated in a workshop on December 22, 2020 designed to prepare them for success in the 2020-2021 competitive college and scholarship cycle.</figcaption></figure>
 
