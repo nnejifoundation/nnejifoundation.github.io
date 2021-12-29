@@ -12,9 +12,9 @@ permalink: /:basename/
 
 ### Educational Advancement
 > #### College & Scholarship Prep Workshops
->> Registration is open now for a FREE workshop on December 22, 2021 to prepare students for the competitive college and scholarship cycle. Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfPsJw5mqVmns2KBkxLLDnGSM9Me30A5bPlOYyr0mUBr2kONQ/viewform?usp=sf_link) to apply by December 15, 2021!
->> 
->> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College_Scholarship_Workshop_20201222.png" border="0" width="200" alt="Screenshot of Workshop"><figcaption>Students participated in a workshop on December 22, 2020 designed to prepare them for success in the 2020-2021 competitive college and scholarship cycle.</figcaption></figure>
+>> The Monica Chibuogu Nneji Foundation (MCNF) hosts a FREE workshop to prepare students for the competitive college and scholarship cycle.
+>> The next MCNF College & Scholarship Prep Workshop application cycle is set to open in the winter.
+>> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/MCNF%20College%20%26%20Scholarship%20Prep%20Workshop.png" border="0" width="200" alt="Screenshot of Workshop"><figcaption>Students participated in workshops in 2020 and 2021.</figcaption></figure>
 
 ### Community Empowerment
 > #### Taking Charge of Your Health Workshops
