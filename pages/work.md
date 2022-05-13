@@ -12,7 +12,7 @@ permalink: /:basename/
 
 ### Educational Advancement
 > #### College & Scholarship Prep Workshop
->> Since 2020, the Monica Chibuogu Nneji Foundation (MCNF) has hosted a FREE workshop annually to prepare students for the competitive college and scholarship cycle.
+>> Since 2020, the Monica Chibuogu Nneji Foundation (MCNF) has hosted workshops annually to prepare students for the competitive college and scholarship cycle.
 >> 
 >> [Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdNVC9LKgErv9V75KfCNrWchOSsP4WRkgDb6s-HaV6m6fP9lA/viewform?usp=sf_link) for the next MCNF College & Scholarship Prep Workshop scheduled for Monday, May 23, 2022, 6:00-7:00PM ET.
 >> 
