@@ -18,7 +18,7 @@ permalink: /:basename/
 > #### Taking Charge of Your Health Workshop
 >> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/2021%20MCNF-SNTNC%20Health%20Equity%20Community%20Empowerment%20Workshop%20Flyer_2in.png" border="0" height="200" width="200" alt="2021 Sisters Network Women's Health Workshop Flyer"><figcaption>The Foundation hosted a workshop with the Sisters Network Triangle NC on May 16, 2021 in observance of National Women's Health Week.</figcaption></figure>
 
->>  #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
+>> #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
