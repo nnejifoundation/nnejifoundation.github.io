@@ -12,16 +12,13 @@ permalink: /:basename/
 ### Educational Advancement
 > #### College & Scholarship Prep Workshop
 >> Since 2020, the Monica Chibuogu Nneji Foundation (MCNF) has hosted workshops annually to prepare students for the competitive college and scholarship cycle.
->> 
->> [Click here to RSVP](https://tally.so/r/3jaZbY) for the next MCNF College & Scholarship Prep Workshop scheduled for Monday, May 23, 2022, 6:00-7:00PM ET.
->> 
->> <a href="https://tally.so/r/3jaZbY"><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College%20%26%20Scholarship%20Prep%20Workshop_2022-05.png" border="0" width="200" alt="Click to RSVP"></a>
+>> <img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/College%20%26%20Scholarship%20Prep%20Workshop_2022-05.png" border="0" width="200" alt="2022 MCNF College & Scholarship Prep Workshop Flyer featuring 2021 MCNF College Scholar Monique Armelle Dacanay">
 
 ### Community Empowerment
 > #### Taking Charge of Your Health Workshop
 >> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/2021%20MCNF-SNTNC%20Health%20Equity%20Community%20Empowerment%20Workshop%20Flyer_2in.png" border="0" height="200" width="200" alt="2021 Sisters Network Women's Health Workshop Flyer"><figcaption>The Foundation hosted a workshop with the Sisters Network Triangle NC on May 16, 2021 in observance of National Women's Health Week.</figcaption></figure>
->> 
-> #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
+
+>>  #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
