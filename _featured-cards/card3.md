@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card3
-project_title: Juan Gomez Rios
+project_title: Juan Gomez Rios, 2021 MCNF College Scholar
 project_summary: From Cali, Colombia. Graduating from Mount Airy High School to study Biology at Emory & Henry College.
 featured: true
 ---
