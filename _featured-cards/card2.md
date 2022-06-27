@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card2
-project_title: Chelsea Mendoza
+project_title: Chelsea Mendoza, 2021 MCNF College Scholar
 project_summary: From Winterville, North Carolina. Graduating from South Central High School to study Neuroscience at University of North Carolina, Chapel Hill.
 featured: true
 ---
