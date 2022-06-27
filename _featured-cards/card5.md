@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card5
-project_title: Monique Armelle Zulueta Dacanay
+project_title: Monique Armelle Zulueta Dacanay, 2021 MCNF College Scholar
 project_summary: From Raleigh, North Carolina. Graduating from Leesville Road High School to study Biomedical Sciences at North Carolina Central University.
 featured: true
 ---
