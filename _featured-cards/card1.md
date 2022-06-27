@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card1
-project_title: Hawaii Najeé Vargas
+project_title: Hawaii Najeé Vargas, 2021 MCNF College Scholar
 project_summary: From Winston-Salem, North Carolina. Graduating from West Forsyth High School to study Biology at University of North Carolina, Charlotte.
 featured: true
 ---
