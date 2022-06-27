@@ -1,7 +1,7 @@
 ---
 layout: card
 card_id: card4
-project_title: Laila Antoinette Valentine
+project_title: Laila Antoinette Valentine, 2021 MCNF College Scholar
 project_summary: From Mebane, North Carolina. Graduating from Cedar Ridge High School to study Neuroscience at University of North Carolina, Chapel Hill.
 featured: true
 ---
