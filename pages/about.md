@@ -13,4 +13,5 @@ An engineer, educator, and entrepreneur.
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/work/" class="button">Our Work</a></li>
+  <li><a href="{{ site.baseurl }}/donate/" class="button">Donate</a></li>
 </ul>
