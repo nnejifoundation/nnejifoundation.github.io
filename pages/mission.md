@@ -15,4 +15,5 @@ The Monica Chibuogu Nneji Foundation is committed to improving access to health,
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/about/" class="button">About Us</a></li>
+  <li><a href="{{ site.baseurl }}/donate/" class="button">Donate</a></li>
 </ul>
