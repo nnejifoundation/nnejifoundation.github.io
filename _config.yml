@@ -1,12 +1,12 @@
 # Grantmaker settings
 foundation_name: The Monica Chibuogu Nneji Foundation, Inc.
 foundation_tagline: 
-paypal_donation: https://paypal.me/Nneji
+zelle_donation: https://enroll.zellepay.com/qr-codes?data=eyJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiJpbmZvQG5uZWppLm9yZyIsIm5hbWUiOiJNT05JQ0EgQ0hJQlVPR1UgTk5FSkkgRk9VTkRBVElPTiJ9
 
 # Social media settings
 # Enter the full profile url (e.g. https://twitter.com/smartergiving)
-profile_paypal: https://paypal.me/Nneji
-profile_amazon: https://smile.amazon.com/ch/85-1546329
+profile_paypal: 
+profile_amazon: 
 profile_instagram: 
 profile_github: 
 
