@@ -1,6 +1,6 @@
 ---
 header_title: Contact Us & Contribute
-header_intro: Please join us in accomplishing our mission today. Support us by donating via <a href="https://enroll.zellepay.com/qr-codes?data=eyJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiJpbmZvQG5uZWppLm9yZyIsIm5hbWUiOiJNT05JQ0EgQ0hJQlVPR1UgTk5FSkkgRk9VTkRBVElPTiJ9" onclick="javascript:window.open('https://enroll.zellepay.com/qr-codes?data=eyJhY3Rpb24iOiJwYXltZW50IiwidG9rZW4iOiJpbmZvQG5uZWppLm9yZyIsIm5hbWUiOiJNT05JQ0EgQ0hJQlVPR1UgTk5FSkkgRk9VTkRBVElPTiJ9','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;">Zelle to info@nneji.org</a>. The Foundation also accepts checks. Contact us with any questions or suggestions. Thank you.
+header_intro: Please join us in accomplishing our mission today. Support us by donating via Zelle to info@nneji.org or mailing a check, cashier's check, or money order to the Foundation. Send your contact information to info@nneji.org to receive an email with your receipt for tax purposes. Thank you for your generous donation!
 address_line_one: 3710 Shannon Road
 address_line_two: Unit 52272
 city: Durham
