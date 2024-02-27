@@ -1,6 +1,6 @@
 ---
 header_title: Contact Us & Contribute
-header_intro: The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and upward mobility of communities in need. Please join us in accomplishing our mission today. Support us by donating via credit card, bank account, or mailing a check, cashier's check, or money order to the Foundation. Send your contact information to info@nneji.org if you need to receive an email with your receipt for tax purposes. Thank you for your generous donation!
+header_intro: The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and upward mobility of communities in need. Please join us in accomplishing our mission today. Support us by donating via credit card, bank account, or mailing a check, cashier's check, or money order to the Foundation. Send your contact information to info@nneji.org to receive a receipt for tax purposes. Thank you for your generous donation!
 address_line_one: 3710 Shannon Road
 address_line_two: Unit 52272
 city: Durham
