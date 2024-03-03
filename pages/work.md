@@ -18,11 +18,10 @@ permalink: /:basename/
 ### Community Health Workshop
 >> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/2021%20MCNF-SNTNC%20Health%20Equity%20Community%20Empowerment%20Workshop%20Flyer_2in.png" border="0" height="200" width="200" alt="2021 Sisters Network Women's Health Workshop Flyer"><figcaption>The Foundation hosted a workshop with the Sisters Network Triangle NC on May 16, 2021 in observance of National Women's Health Week.</figcaption></figure>
 >> 
->> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/Disability%20and%20Identity.png" border="0" width="200" alt="2024 Dr. Diana Cejas Health Workshop Flyer"><figcaption>The Foundation is hosting a free webinar with Dr. Diana M. Cejas, MD, MPH in observance of Developmental Disabilities & Brain Injury Awareness Month on March 3, 2024.</figcaption></figure>
+>> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/Disability%20and%20Identity.png" border="0" width="200" alt="2024 Dr. Diana Cejas Health Workshop Flyer"><figcaption>The Foundation hosted a free webinar with Dr. Diana M. Cejas, MD, MPH in observance of Developmental Disabilities & Brain Injury Awareness Month on March 3, 2024.</figcaption></figure>
 
 >> #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
 
 <ul class="actions">
-   <li><a href="https://secure.givelively.org/event/monica-chibuogu-nneji-foundation/disability-identity-mcnf-hosts-free-webinar-with-dr-diana-m-cejas-md-mph-in-observance-of-developmental-disabilities-brain-injury-awareness-month-2024" class="button">RSVP to Webinar</a></li>
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
 </ul>
