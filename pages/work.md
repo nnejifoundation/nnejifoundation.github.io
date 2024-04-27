@@ -6,8 +6,8 @@ permalink: /:basename/
 ---
 ### College Scholarship
 >> The Monica Chibuogu Nneji Foundation (MCNF) seeks to identify and invest in future health care professionals who are innovative, inclusive, resilient, and driven to improve health equity in their communities. The MCNF College Scholarship is designed to support students pursuing higher education in health care fields including, but not limited to, nursing, medicine, occupational therapy, speech-language pathology, public health, and biomedical engineering. Our goal is to improve access to higher education and health care careers for outstanding students from underrepresented backgrounds. The Foundation awards each scholar with a scholarship of $500.00 based on unmet financial need, paid directly to the scholar’s institution, as well as professional mentorship throughout their academic journey. Click [here](/scholars) to learn about the MCNF College Scholars!
-<!--
->> Click [here](https://tally.so/r/mOaOMM) to apply for the MCNF College Scholarship.-->
+
+>> Click [here](https://tally.so/r/woABPV) to apply for the MCNF College Scholarship.
 
 ### Inclusive Post-Secondary Education (IPSE) Scholarship
 >> The Monica Chibuogu Nneji Foundation (MCNF) seeks to identify and invest in students who have been systematically excluded from traditional professional or educational pathways due to hearing, intellectual, learning, mental health, physical, and/or visual disabilities. The MCNF IPSE Scholarship is a new program designed to support students pursuing higher education through IPSE programs. The Foundation intends to raise enough of a fund to be able to support students with intellectual and developmental disabilities based on unmet financial need, paid directly to the scholar’s institution, as well as professional mentorship throughout their academic journey. Click [here](/donate) to support this scholarship fund!
