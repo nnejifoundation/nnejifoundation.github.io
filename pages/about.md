@@ -13,5 +13,6 @@ An engineer, educator, and entrepreneur.
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/work/" class="button">Our Work</a></li>
-  <li><a href="{{ site.baseurl }}/donate/" class="button">Donate</a></li>
+  <li><a zeffy-form-link="https://www.zeffy.com/embed/donation-form/6811652b-fd7d-4041-b853-f732c1a4df8b?modal=true" class="button">Donate</a></li>
+  
 </ul>
