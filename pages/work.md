@@ -1,6 +1,6 @@
 ---
 header_title: Work
-header_intro: See what The Foundation is working on, <a href="http://eepurl.com/hmP-11">join our mailing list</a>, and <a href="https://www.linkedin.com/company/monica-chibuogu-nneji-foundation">connect with us</a> on our activities and opportunties.
+header_intro: See what The Foundation is working on, <a href="https://www.zeffy.com/ticketing/subscribe-to-email-updates-from-the-monica-chibuogu-nneji-foundation">join our mailing list</a>, and <a href="https://www.linkedin.com/company/monica-chibuogu-nneji-foundation">connect with us</a> on our activities and opportunties.
 layout: page
 permalink: /:basename/
 ---
@@ -19,8 +19,9 @@ permalink: /:basename/
 >> 
 >> <figure><img src="https://raw.githubusercontent.com/nnejifoundation/nnejifoundation.github.io/gh-pages/assets/images/Disability%20and%20Identity.png" border="0" width="200" alt="2024 Dr. Diana Cejas Health Workshop Flyer"><figcaption>The Foundation hosted a free webinar with Dr. Diana M. Cejas, MD, MPH in observance of Developmental Disabilities & Brain Injury Awareness Month on March 3, 2024.</figcaption></figure>
 
->> #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](http://eepurl.com/hmP-11). 
+>> #### **[Connect with us](https://www.linkedin.com/company/monica-chibuogu-nneji-foundation)** and contact The Foundation with any ideas to empower our communities. Also, [please join our mailing list to stay up to date](https://www.zeffy.com/ticketing/subscribe-to-email-updates-from-the-monica-chibuogu-nneji-foundation). 
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/donate/" class="button">Contact Us & Contribute</a></li>
+ <li><a zeffy-form-link="https://www.zeffy.com/embed/ticketing/subscribe-to-email-updates-from-the-monica-chibuogu-nneji-foundation?modal=true" class="button">Subscribe to Emails</a></li>
 </ul>
