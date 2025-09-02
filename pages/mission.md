@@ -17,5 +17,6 @@ The Monica Chibuogu Nneji Foundation is committed to improving access to health,
 
 <ul class="actions">
   <li><a href="{{ site.baseurl }}/about/" class="button">About Us</a></li>
-  <li><a zeffy-form-link="https://www.zeffy.com/embed/donation-form/6811652b-fd7d-4041-b853-f732c1a4df8b?modal=true" class="button">Donate</a></li>
+  <li><a zeffy-form-link="https://www.zeffy.com/embed/donation-form/nnejiorg?modal=true" class="button">Donate</a></li>
 </ul>
+
