@@ -20,6 +20,6 @@ permalink: /:basename/
 <!-- GOOD -->
 <!-- address_line_one: SomeBank, ATTN Chris Smith -->
 <ul class="actions">
-  <li><a zeffy-form-link="https://www.zeffy.com/embed/donation-form/6811652b-fd7d-4041-b853-f732c1a4df8b?modal=true" class="button">Donate</a></li>
+  <li><a zeffy-form-link="https://www.zeffy.com/embed/donation-form/nnejiorg?modal=true" class="button">Donate</a></li>
   <li><a zeffy-form-link="https://www.zeffy.com/embed/ticketing/subscribe-to-email-updates-from-the-monica-chibuogu-nneji-foundation?modal=true" class="button">Subscribe to Emails</a></li>
 </ul>
